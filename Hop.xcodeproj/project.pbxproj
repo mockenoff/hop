@@ -67,6 +67,7 @@
 		3477AD921AD9F2B9000F26AD /* Hop */ = {
 			isa = PBXGroup;
 			children = (
+				3477ADB91ADA0852000F26AD /* Models */,
 				3477AD951AD9F2B9000F26AD /* AppDelegate.swift */,
 				3477ADB71AD9F92D000F26AD /* Hop-Bridging-Header.h */,
 				3477AD971AD9F2B9000F26AD /* FirstViewController.swift */,
@@ -102,6 +103,13 @@
 				3477ADAC1AD9F2B9000F26AD /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3477ADB91ADA0852000F26AD /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 		A7B66AABDBF4F951717A2C1D /* Pods */ = {
